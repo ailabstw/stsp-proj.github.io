@@ -1,15 +1,6 @@
-<<<<<<< HEAD
 .idea
 .DS_Store
 .sass-cache
 _site
 node_modules
 _drafts
-=======
-node_modules/
-config.js
-npm-debug.log.*
-yarn-error.log
-.DS_Store
-uploads
->>>>>>> a5cdcd1e5e672094f2d0ba9ab1b803b2d4e026d6
