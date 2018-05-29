@@ -1,8 +1,0 @@
-#!/usr/bin/env bash
-
-__dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-
-cd ${__dir}
-git pull origin master
-yarn
-pm2 restart api --env production
