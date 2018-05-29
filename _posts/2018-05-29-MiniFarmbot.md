@@ -21,4 +21,4 @@ introduction: 農業資料數據
 + 數據領域類別: 智慧農業
 + 數據檔案類型: .jpg, .json
 + 內容說明: 農業資料數據
-+ 示範應用網站入口: https://ailabs.tw
++ 示範應用網站入口: [https://ailabs.tw](https://ailabs.tw)

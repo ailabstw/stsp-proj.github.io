@@ -21,4 +21,4 @@ introduction: 農業專家名單
 + 數據領域類別: 智慧農業
 + 數據檔案類型: .csv
 + 內容說明: 農業專家名單
-+ 示範應用網站入口: (agribigdata.npust.edu.tw)網域申請與建構中...
++ 示範應用網站入口: [agribigdata.npust.edu.tw](agribigdata.npust.edu.tw)
